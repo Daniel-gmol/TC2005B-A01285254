@@ -6,10 +6,12 @@ body {
 }
 
 button {
-    padding: 10px 20px;
+    padding: 1em 2em;
     width: 10em;
-    height: 3em;
+    height: 5em;
     border-radius: 5px;
     background-color: #f1f1f1;
     cursor: pointer;
+    overflow: hidden;
+    text-align: center;
 }
